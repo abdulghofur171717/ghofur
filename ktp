@@ -1,0 +1,14 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "no": 1,
+      "nama": "David De Gea",
+      "tanggal lahir": "1990-11-07",
+      "alamat": "Semarang",
+      "provinsi": "Jawa Tengah",
+      "Agama": "Islam",
+      "Poster": "http://cdn.medcom.id/dynamic/content/2016/02/23/488569/iia1mZ8idE.jpg?w=1024"
+    },
+  ]
+}
