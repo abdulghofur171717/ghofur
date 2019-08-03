@@ -1,5 +1,5 @@
 <?php
-$link = mysql_connect('fdb25.awardspace.net', '2980214_semarangku', 'semarang123') or die('Cannot connect to the DB');
+$link = mysql_connect('https://abdulghofur171717.github.io/ghofur17.github.io', '2980214_semarangku', 'semarang123') or die('Cannot connect to the DB');
 mysql_select_db('2980214_semarangku', $link) or die('Cannot select the DB');
 
 $query = "SELECT * FROM semarangku";
